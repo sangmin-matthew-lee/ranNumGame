@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  font-weight: bolder;
+}
+
+p {
+  font-size: x-large;
+}
+
+#jsRange {
+  height: 30px;
+  width: 200px;
+}
